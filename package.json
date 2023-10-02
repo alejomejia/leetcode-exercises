@@ -2,14 +2,13 @@
   "name": "leetcode-exercises",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.ts",
+  "main": "",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {},
   "devDependencies": {
     "@types/jest": "27.0.1",
     "jest": "27.0.6",
